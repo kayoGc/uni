@@ -26,9 +26,9 @@ $$
 
 Uma matriz é uma matriz triangular quando os elemntos abaixo ou acima da diagonal principal são nulos
 
-> matriz triangular inferior
+> matriz triangular superior
 $$
-MTI = 
+MTS = 
 \begin{bmatrix}
 1 & 2 & 3 \\
 0 & 5 & 6 \\
@@ -37,9 +37,9 @@ MTI =
 $$
 
 
-> matriz triangular superior
+> matriz triangular inferior
 $$
-MTS =
+MTI =
 \begin{bmatrix}
 1 & 0 & 0 \\
 6 & 5 & 0 \\
