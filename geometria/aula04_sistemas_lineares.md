@@ -225,3 +225,8 @@ as operações para transformar a matriz permitidas são:
 
 3. substituir uma linha por uma adição dela por outra que foi multipicada antes
 
+> why so much D:
+
+### metodo de Gauss-jordan
+
+O começo é parecido com o metodo de Gauss normal porém vamos transformar a matriz em uma matriz identidae. nesse processo os termos idepedentes vão acabar virando os valores da icognota
